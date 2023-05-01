@@ -1,15 +1,14 @@
-<h1 align="center">Hi , I'am Mohamad Kazlak<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi , I'm Mohamad Kazlak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=Mohamadkazlak&label=Profile%20views&color=blue&style=flat" alt="kazlak" height=25px, width=150px/>
 </div>
 
- ## <picture><img src = "https://raw.githubusercontent.com/Mohamadkazlak/Mohamadkazlak/main/picture/giphy.gif" width = 50px></picture> About me
+ ## <picture><img src = "https://raw.githubusercontent.com/Mohamadkazlak/Mohamadkazlak/picture/giphy.gif" width = 50px></picture> About me
  
-<picture><img align="right" src="https://raw.githubusercontent.com/Mohamadkazlak/Mohamadkazlak/main/picture/giphy%20(1).gif" width = 250px></picture>
+<picture><img align="right" src="https://raw.githubusercontent.com/Mohamadkazlak/Mohamadkazlak/mpicture/giphy%20(1).gif" width = 250px></picture>
 <br>
 
 - :school: I am a `Senior` Computer Science Student at FCI|SCU.
-- :computer: I am a competitive programmer at `Codeforces`.
 - :student: Looking forward to being a great Software Engineer
 <br>
 
