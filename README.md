@@ -12,7 +12,7 @@
 <br><br>
 
 <ul>
-<li>I'm a Senior <strong>Computer Science</strong> Student @ FCI. | SCU</li>
+<li>I'm a Senior <strong>Computer Science</strong> Student @ FCI | SCU.</li>
 
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Learning New Topics</strong>.</li>  
 
