@@ -12,11 +12,11 @@
 <br><br>
 
 <ul>
-<li>I am a Senior <strong>Computer Science</strong> Student @ FCI | SCU</li>
+<li>I'm a Senior <strong>Computer Science</strong> Student @ FCI. | SCU</li>
 
-<li> I enjoy <strong>Problem Solving</strong> and <strong>Learning New Topics</strong></li>  
+<li> I enjoy <strong>Problem Solving</strong> and <strong>Learning New Topics</strong>.</li>  
 
-<li> Looking forward to be a great <strong>Software Engineer</strong></li>
+<li> Looking forward to be a great <strong>Software Engineer</strong>.</li>
 
 </ul>
 <hr>
