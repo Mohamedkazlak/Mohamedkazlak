@@ -27,13 +27,13 @@
 
 ### 📂 Projects
 
-- **[LLEGAR Rental Platform](https://github.com/Mohamedkazlak/LLEGAR_Project)**  
+- **[LLEGAR Rental Platform](https://github.com/Mohamedkazlak/LLEGAR-Project)**  
   Node.js + MongoDB rental system with CRUD APIs for listings
 
-- **[Classification Model](https://github.com/Mohamedkazlak/Classification_Model_Project)**  
+- **[Classification Model](https://github.com/Mohamedkazlak/Classification-Model)**  
   Predict drug types using ML (KNN & Naive Bayes) in Python
 
-- **[Student Attendance System](https://github.com/Mohamedkazlak/Student_Attendance_System_Project)**  
+- **[Student Attendance System](https://github.com/Mohamedkazlak/Student-Attendance-System)**  
   Console-based C++ project using OOP and operator overloading
 
 ---
